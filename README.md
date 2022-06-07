@@ -29,3 +29,15 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
+### Links
+- Live Site URL: [happi89.github.io/quote-generator/](happi89.github.io/quote-generator/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+- async Javascript
+- Quote API
