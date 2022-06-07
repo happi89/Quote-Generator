@@ -8,11 +8,6 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![![Screenshot from 2022-06-07 15-35-27](https://user-images.githubusercontent.com/101960666/172467399-d6dfde11-f711-4626-a4af-5f60d812099a.png)
 
 ### Links
 - Live Site URL: [https://happi89.github.io/quote-generator/](https://happi89.github.io/quote-generator/)
