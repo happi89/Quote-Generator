@@ -30,7 +30,7 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 ### Links
-- Live Site URL: [happi89.github.io/quote-generator/](happi89.github.io/quote-generator/)
+- Live Site URL: [https://happi89.github.io/quote-generator/](https://happi89.github.io/quote-generator/)
 
 ## My process
 
